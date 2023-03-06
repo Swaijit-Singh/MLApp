@@ -1,4 +1,4 @@
-Numpy1.18.2
+Numpy1.18 # Swaijit
 pandas
 scikit_learn
 joblib
