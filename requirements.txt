@@ -1,0 +1,7 @@
+Numpy1.18.2
+pandas
+scikit_learn
+joblib
+sqlalchemy
+mysql-connector-python
+jupyter
