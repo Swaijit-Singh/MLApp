@@ -1,5 +1,5 @@
 Numpy1.18 # Swaijit
-pandas
+pandas2.6 #it is changed by Swaijit
 scikit_learn
 joblib
 sqlalchemy
