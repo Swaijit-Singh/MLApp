@@ -6,3 +6,4 @@ sqlalchemy
 mysql-connector-python
 jupyter
 Scpy=1.5.0 ##added in Feature1
+#https://github.com/Swaijit-Singh/MLApp #gitrepo1
